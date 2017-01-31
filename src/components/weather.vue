@@ -59,4 +59,63 @@ export default {
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
 
+  .weather {
+
+    padding: 20px;
+    }
+
+  .location {
+    font-size: 3em;
+  }
+
+  .date {
+    font-size: 1.5em;
+  }
+
+  .description {
+    font-size: 1.1em;
+  }
+
+  .current {
+    overflow: auto;
+    widht: 100%;
+  }
+
+  .visual {
+    float: left;
+    widht: 50%;
+  }
+
+  .text {
+    width: 50%;
+    float: right;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 </style>
